@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf2eb9dd.css",
-    "main.js": "/static/js/main.b5535fd5.js",
-    "index.html": "/index.html",
-    "main.bf2eb9dd.css.map": "/static/css/main.bf2eb9dd.css.map",
-    "main.b5535fd5.js.map": "/static/js/main.b5535fd5.js.map"
+    "main.css": "/fourier_visualization/static/css/main.bf2eb9dd.css",
+    "main.js": "/fourier_visualization/static/js/main.b5535fd5.js",
+    "index.html": "/fourier_visualization/index.html",
+    "main.bf2eb9dd.css.map": "/fourier_visualization/static/css/main.bf2eb9dd.css.map",
+    "main.b5535fd5.js.map": "/fourier_visualization/static/js/main.b5535fd5.js.map"
   },
   "entrypoints": [
     "static/css/main.bf2eb9dd.css",
